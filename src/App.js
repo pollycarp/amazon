@@ -6,7 +6,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    //BEM
+    <div className="app">
     <h1> fff</h1>
     <Header/>
     {/*Home*/}
