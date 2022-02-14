@@ -1,0 +1,21 @@
+[debug] [2022-02-13T23:57:01.939Z] ----------------------------------------------------------------------
+[debug] [2022-02-13T23:57:01.941Z] Command:       /home/kingslayer/.nvm/versions/node/v17.4.0/bin/node /usr/local/bin/firebase init
+[debug] [2022-02-13T23:57:01.942Z] CLI Version:   10.2.0
+[debug] [2022-02-13T23:57:01.942Z] Platform:      linux
+[debug] [2022-02-13T23:57:01.942Z] Node Version:  v17.4.0
+[debug] [2022-02-13T23:57:01.942Z] Time:          Mon Feb 14 2022 02:57:01 GMT+0300 (East Africa Time)
+[debug] [2022-02-13T23:57:01.942Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-02-13T23:57:01.948Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-02-13T23:57:01.948Z] > authorizing via signed-in user (markpollycarp@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/kingslayer/amazonclone
+
