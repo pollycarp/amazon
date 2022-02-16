@@ -1,6 +1,7 @@
 .header {
-height:55px;
+height:60px;
 display: flex;
+align-items: center;
 background-color:black;
 position: sticky;
 top: 0;
