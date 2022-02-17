@@ -9,6 +9,15 @@ function Home() {
         />
         <div className="home__raw">
             {}
+            {}
+        </div>
+        <div className='home__raw'>
+        {}
+        {}
+        {}
+        </div>
+        <div className='home__raw'>
+            {}
         </div>
       </div>
   </div>;

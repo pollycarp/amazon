@@ -29,7 +29,7 @@ z-index: 100;
 
 .header__seachIcon{
   padding: 5px;
-  height: 20px !important;
+  height: 22px !important;
   background-color: orange;  
 }
 
@@ -40,12 +40,12 @@ font-size: 10px;
 
 .header__optionLineTwo{
 font-size:13px;
-align-items: center;
 font-weight: 800;
 }
 
 .header__optionBasket{
     display: flex;
+    align-items: center;
     color: white;
 }
 
