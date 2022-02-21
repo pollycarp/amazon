@@ -14,7 +14,7 @@ function Home() {
         <div className="home__row">
             <Product 
             id=''
-            tittle='The lean startup:' 
+            tittle='The lean startup:The Lean Startup method allows organizations to launch new digital products or services in environments with high uncertainty. High uncertainty can be created when potential customers.' 
             price={20.1} 
             image='https://i.pinimg.com/564x/fd/ca/f0/fdcaf0210f692cfca18d13e7ccb52550.jpg'
             rating={5} 
