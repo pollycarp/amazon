@@ -6,9 +6,10 @@ import Subtotal from"./Subtotal"
 
 function Checkout() {
   const [{basket}, dispatch] = useStateValue();
+
   return (
     <div className='checkout'>
-      <div classNAme ="checkout__left">
+      <div className ="checkout__left">
     <img 
     className='checkout__ad' 
     src='https://cdn.andnowuknow.com/mainStoryImage/amazon_newstore_111119.png?2elFDH.NARL3RqUKy0Nq2e.e1THgJeWI'

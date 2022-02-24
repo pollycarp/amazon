@@ -27,6 +27,7 @@ export const initialState = {
 
       if (index >= 0){
         newBasket.splice(index, 1);
+
       }else {
         console.warn(
           `cant remove product (id: ${action.id}) as its not in basket!`
