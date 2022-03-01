@@ -22,7 +22,12 @@
      width: 100%;
      object-fit: contain;
      margin-bottom: 15px;
+     
     }
+    .product > img:hover{
+        transform: scale(1.2);
+        transition: 0.1s;
+        }
 
     .product > button {
         background-color: darkorange;

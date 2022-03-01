@@ -60,6 +60,7 @@ text-decoration: none;
 .header__nav{
     display: flex;
     justify-content: space-evenly;
+    text-decoration: none;
 }
 
 .header__option {
@@ -68,4 +69,5 @@ text-decoration: none;
    margin-left: 10px;
    margin-right: 10px; 
    color: white;
+   text-decoration: none;
 }
