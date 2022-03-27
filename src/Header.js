@@ -9,11 +9,11 @@ import {useStateValue} from "./StateProvider"
 function Header() {
   const [{basket, user}, dispatch] = useStateValue();
   
-  // const handleAuthenticaton = () => {
-  //   if (user) {
-  //     auth.signOut();
-  //   }
-  // }
+  const handleAuthenticaton = () => {
+    if (user) {
+      // auth.signOut();
+    }
+  }
   
   return ( 
   <div className='header'>
